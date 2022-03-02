@@ -31,3 +31,11 @@ p {
 footer {
     text-align: right;
 }
+
+video {
+    margin: 33.5px;
+}
+
+img {
+    margin: 10px;
+}
